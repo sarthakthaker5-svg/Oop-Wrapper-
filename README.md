@@ -227,7 +227,7 @@ Additional Functionality:
 
 Watch the complete project demonstration here:
 
-[▶ Watch Demo Video](YOUR_VIDEO_LINK_HERE)
+[▶ Watch Demo Video](https://drive.google.com/file/d/1gQ4QJQtzJ_5oItDqXfrVab9KtePBkaw0/view)
 
 ---
 
